@@ -1,8 +1,0 @@
-Bank debit version 1.0
-First release
-
-Factoring version 1.0
-First release
-
-Payex payment version 1.0
-First release
